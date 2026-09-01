@@ -1,4 +1,4 @@
-tle - Data Cleaning
+# Project Title - Data Cleaning
 
 ## Project Overview
 The main Objective is to clean a raw dataset by handling missing values, removing duplicate, correcting data types, fixing inconsistence entries, and preparing the data for further analysis.
