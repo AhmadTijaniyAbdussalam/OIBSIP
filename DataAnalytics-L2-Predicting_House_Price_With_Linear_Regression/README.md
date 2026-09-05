@@ -1,7 +1,7 @@
 # Project title - House Price Prediction Using Linear Regression
 
 ## Project Overview
-This project analyzes the Ames Housing Datasets to identify keyquared factors influencing house prices and develop a machine learning model for price prediction.
+This project analyzes the Ames Housing Datasets to identify key factors influencing house prices and develop a machine learning model for price prediction.
 
 ## Objective
 - Explore the distribution of house sale price
